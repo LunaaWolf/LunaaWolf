@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LunaaWolf
 - 👀 I’m interested in field of programming
 - 🌱 I’m currently learning personally.
-- 💞️ I'm I want to learn how to write code
+- 💞️ I'm I want research branch programming.
 - 📫 How to reach me email: markovskyiruv@gmail.com
 
 <!---
